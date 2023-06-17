@@ -1,7 +1,7 @@
 ## Weather App
 In this project, we are fetching and transferring data from the weather API.
 
-Warning
+## Warning
 You need to get your own API from OpernWeather site and put it in APIKey.
 
 const APIKey = 'Your Api Key';
