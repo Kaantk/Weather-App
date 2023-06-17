@@ -1,4 +1,4 @@
-## **Weather App**
+## Weather App
 In this project, we are fetching and transferring data from the weather API.
 
 ## Warning
